@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: bluemicro840_v1
+  - board: nice_nano_v2
     shield: sofle_left
-  - board: bluemicro840_v1
+  - board: nice_nano_v2
     shield: sofle_right
